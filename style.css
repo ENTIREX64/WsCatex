@@ -1,0 +1,29 @@
+    html, body {
+      height: 100%;
+      margin: 0;
+      padding: 0;
+    }
+  
+    body {
+      background-color: black;
+      align-items: center;
+    }
+  
+    #terminal {
+    color: white;
+    font-family: monospace;
+    height: 400px;
+    overflow: hidden;
+    padding: 10px;
+    box-sizing: border-box;
+    width: 100%;
+    }
+  
+    #terminal input {
+      background-color: transparent;
+      border: none;
+      color: white;
+      font-family: monospace;
+      outline: none;
+      width: 100%;
+    }
