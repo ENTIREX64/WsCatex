@@ -15,7 +15,7 @@ Let us see what this project is now.
 
 ## How to run
 To open WsCatex online, follow this link: [WsCatex] 
-Unfortunately, running the project locally is not supported in this project, but you can just download the .zip folder and open the `frontpage.html` file.
+Unfortunately, running the project locally is not supported in this project, but you can just download the .zip folder and open the `index.html` file.
 
 ## Technologies Used
 - VS Code
