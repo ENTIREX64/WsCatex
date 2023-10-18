@@ -14,7 +14,7 @@ Let us see what this project is now.
 - Strings generated consist of Letters (Uppercase and Lowercase), Numbers and Symbols
 
 ## How to run
-To open WsCatex online, follow this link: [WsCatex] 
+To open WsCatex online, follow this link: [WsCatex](https://entirex.github.io/WsCatex)  
 Unfortunately, running the project locally is not supported in this project, but you can just download the .zip folder and open the `index.html` file.
 
 ## Technologies Used
